@@ -30,6 +30,7 @@
 		EF7A3B03255E0DD6002D9150 /* Inventory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Inventory.m; sourceTree = "<group>"; };
 		EF7A3B1A255F41B2002D9150 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		EF7A3B1C255F4623002D9150 /* terminal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = terminal.png; path = "../../../../../../../../../../var/folders/3t/mrtqj_ys7dd9g7w4cvbh5gn40000gn/T/TemporaryItems/(A Document Being Saved By screencaptureui 4)/terminal.png"; sourceTree = "<group>"; };
+		EF7A3B1D255F4A33002D9150 /* terminal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = terminal.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -46,6 +47,8 @@
 		EF7A3AEE255E0DAF002D9150 = {
 			isa = PBXGroup;
 			children = (
+				EF7A3B1A255F41B2002D9150 /* README.md */,
+				EF7A3B1D255F4A33002D9150 /* terminal.png */,
 				EF7A3AF9255E0DAF002D9150 /* Inventory */,
 				EF7A3AF8255E0DAF002D9150 /* Products */,
 			);
@@ -63,7 +66,6 @@
 			isa = PBXGroup;
 			children = (
 				EF7A3AFA255E0DAF002D9150 /* main.m */,
-				EF7A3B1A255F41B2002D9150 /* README.md */,
 				EF7A3B02255E0DD6002D9150 /* Inventory.h */,
 				EF7A3B03255E0DD6002D9150 /* Inventory.m */,
 				EF7A3B1C255F4623002D9150 /* terminal.png */,
