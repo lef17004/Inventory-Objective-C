@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		EF7A3AFB255E0DAF002D9150 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EF7A3AFA255E0DAF002D9150 /* main.m */; };
+		EF7A3B04255E0DD6002D9150 /* Inventory.m in Sources */ = {isa = PBXBuildFile; fileRef = EF7A3B03255E0DD6002D9150 /* Inventory.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,10 @@
 /* Begin PBXFileReference section */
 		EF7A3AF7255E0DAF002D9150 /* Inventory */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Inventory; sourceTree = BUILT_PRODUCTS_DIR; };
 		EF7A3AFA255E0DAF002D9150 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		EF7A3B02255E0DD6002D9150 /* Inventory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Inventory.h; sourceTree = "<group>"; };
+		EF7A3B03255E0DD6002D9150 /* Inventory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Inventory.m; sourceTree = "<group>"; };
+		EF7A3B1A255F41B2002D9150 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		EF7A3B1C255F4623002D9150 /* terminal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = terminal.png; path = "../../../../../../../../../../var/folders/3t/mrtqj_ys7dd9g7w4cvbh5gn40000gn/T/TemporaryItems/(A Document Being Saved By screencaptureui 4)/terminal.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +63,10 @@
 			isa = PBXGroup;
 			children = (
 				EF7A3AFA255E0DAF002D9150 /* main.m */,
+				EF7A3B1A255F41B2002D9150 /* README.md */,
+				EF7A3B02255E0DD6002D9150 /* Inventory.h */,
+				EF7A3B03255E0DD6002D9150 /* Inventory.m */,
+				EF7A3B1C255F4623002D9150 /* terminal.png */,
 			);
 			path = Inventory;
 			sourceTree = "<group>";
@@ -118,6 +127,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EF7A3B04255E0DD6002D9150 /* Inventory.m in Sources */,
 				EF7A3AFB255E0DAF002D9150 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
